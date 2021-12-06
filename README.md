@@ -16,9 +16,9 @@
   ### Functions   
     - Create Sum function  
     - Create Substraction function  
-    - Create multiply function  
-    - Create Divide function  
-    - Create Power function  
+    - Create multiply function (optional)  
+    - Create Divide function (optional)  
+    - Create Power function (optional)    
   ### Data structures  
     - Array basics (Create, get, update, slice, search)
     - Create operation object
