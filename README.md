@@ -29,16 +29,16 @@
     - Allow mode to make the same operation for array of results (concatenate results by operation)
     
 ## Install packages - NPM
-  Install and config jest
-  Create first dummy test
-  Test passing
-  Hooks (before, beforeEach, after, afterEach)
-  AAA pattern in test
+  Install and config jest  
+  Create first dummy test  
+  Test passing  
+  Hooks (before, beforeEach, after, afterEach)  
+  AAA pattern in test  
   
 ## Challenge
-  Add tests for Sum operation
-  Add tests for substract operation
-  Add tests for concatenation feature
+  Add tests for Sum operation  
+  Add tests for substract operation  
+  Add tests for concatenation feature  
     
     
     
